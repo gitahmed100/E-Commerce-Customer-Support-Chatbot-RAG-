@@ -1,0 +1,16 @@
+datasets
+scikit-learn
+joblib
+pandas
+numpy
+transformers
+accelerate
+evaluate
+torch
+sentence-transformers
+faiss-cpu
+groq
+fastapi
+uvicorn[standard]
+pydantic
+jupyter
